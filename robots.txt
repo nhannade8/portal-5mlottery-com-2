@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nhannade8.github.io/portal-5mlottery-com-2/sitemap.xml
